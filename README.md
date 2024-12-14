@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jas Khetani**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -23,10 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KcBr26r"  ><a href="//imgur.com/a/KcBr26r">Jas Khetani MP4 Submission for CodePath WEB102</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
+GIF created with Windows Game Console Screen Recorder (Built-In)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +35,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+In completing these challenges, my main hurdle was to recollect HTML, CSS, and JavaScript knowledge that I learnt about a year ago and haven't used since however, using the resources in the documentation I was able to conquer all the challenges and found the resources too useful. I enjoyed solving all the exercises and am glad to complete them even if it doesn't result in my admission for the WEB102 CodePath class!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Jas Tejas Khetani
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
